@@ -1,0 +1,17 @@
+#!/usr/bin/env mkb
+ 
+files
+{
+    # This indicates that all files specified can be found in the src folder of your project
+    (src)
+ 
+    # This will create a folder in the Solution Explorer called Source
+    [Source]
+    Main.cpp
+    HelloWorld.cpp
+
+    # Create a sub folder called UI within the Source folder in Solution Explorer
+    [Source UI]
+    MainMenu.cpp
+    MainMenu.h
+}

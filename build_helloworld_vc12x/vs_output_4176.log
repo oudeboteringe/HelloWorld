@@ -1,0 +1,26 @@
+1>------ Build started: Project: HelloWorld_vc12x, Configuration: GCC ARM Debug Win32 ------
+1>  Performing Custom Build Tools
+1>  msg: option 'default-buildenv' overridden by command line
+1>  C:\Marmalade\7.4\s3e\makefile_builder\mkb.py e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb --buildenv=VC12X --default-buildenv=vc12x --msvc-project
+1>  Building project: e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb
+1>  Visual studio files updated (dsp).
+1>  -
+1>CUSTOMBUILD : Deliberate error : please reload now.
+1>  
+1>  done
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+
+1>------ Build started: Project: HelloWorld_vc12x, Configuration: GCC ARM Debug Win32 ------
+1>  Performing Custom Build Tools
+1>  msg: option 'default-buildenv' overridden by command line
+1>  C:\Marmalade\7.4\s3e\makefile_builder\mkb.py e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb --buildenv=VC12X --default-buildenv=vc12x --msvc-project
+1>  Building project: e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb
+1>  done
+1>  ARM Compiling(GCC) e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\src\HelloWorld.cpp ...
+1>  ARM Compiling(GCC) e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\src\Main.cpp ...
+1>  ARM Compiling(GCC) e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\src\MainMenu.cpp ...
+1>  ARM Linking(GCC) ...
+1>  HelloWorld_vc12x.vcxproj -> e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_gcc_arm\HelloWorld.s3e
+1>  C:\Marmalade\7.4\s3e\python\python.exe .\process_map.py "e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_gcc_arm\HelloWorld.s3e"
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+

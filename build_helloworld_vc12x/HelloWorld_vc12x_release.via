@@ -1,0 +1,8 @@
+--dll="e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Release_HelloWorld_VC12X_x86\HelloWorld.s86"
+--data="e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\data"
+--checks3edir="1"
+--app-icf1="e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/data/app.icf"
+--config-txt1="c:/marmalade/7.4/s3e/s3e.config.txt"
+--config-txt2="e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/data/app.config.txt"
+--config-txt3="c:/marmalade/7.4/s3e\s3e.config.txt"
+--s3e-dir=c:/marmalade/7.4/s3e

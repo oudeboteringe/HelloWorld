@@ -1,0 +1,31 @@
+﻿Build started 9/7/2014 5:21:36 PM.
+     1>Project "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\HelloWorld_vc12x.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Marmalade\7.4\s3e\bin\CL.exe /c /Ic:/marmalade/7.4/s3e/h /Ic:/marmalade/7.4/s3e/h/ext /Ic:/marmalade/7.4/s3e/h/std /Ic:/marmalade/7.4/s3e/h/std/c++ /Ic:/marmalade/7.4/s3e/h/ext_legacy /Ic:/marmalade/7.4/s3e/h/legacy /I. /ZI /nologo /W3 /WX- /MP /Od /Oy- /X /Gm- /EHsc /RTC1 /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug_HelloWorld_vc12x_x86\\" /Fd"Debug_HelloWorld_vc12x_x86\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /S3Eproject /J /FI"e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\temp_defines_debug.h" ..\src\HelloWorld.cpp
+         HelloWorld.cpp
+       Link:
+         C:\Marmalade\7.4\s3e\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug_HelloWorld_vc12x_x86\HelloWorld.s86" /INCREMENTAL /NOLOGO /LIBPATH:c:/marmalade/7.4/s3e/lib/x86 vc6_compat.lib s3e_cpp_d.lib s3e_d.lib s3e_api.lib /NODEFAULTLIB:libcmt /MANIFEST:NO /DEBUG /PDB:"Debug_HelloWorld_vc12x_x86\HelloWorld.pdb" /SUBSYSTEM:WINDOWS /OPT:NOREF /OPT:NOICF /TLBID:1 /ENTRY:"DllEntryPoint" /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug_HelloWorld_vc12x_x86\HelloWorld.lib" /MACHINE:X86  /include:_IwMain /include:_raise /include:_DllEntryPoint@12 /force:multiple /DLL Debug_HelloWorld_vc12x_x86\HelloWorld.obj
+         Debug_HelloWorld_vc12x_x86\Main.obj
+         Debug_HelloWorld_vc12x_x86\MainMenu.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     1>HelloWorld.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+     1>LIBCMTD.lib(strtoq.obj) : warning LNK4006: _strtof already defined in s3e_d.lib(iwcrt_common.obj); second definition ignored
+            Creating library Debug_HelloWorld_vc12x_x86\HelloWorld.lib and object Debug_HelloWorld_vc12x_x86\HelloWorld.exp
+     1>Debug_HelloWorld_vc12x_x86\HelloWorld.s86 : warning LNK4088: image being generated due to /FORCE option; image may not run
+         HelloWorld_vc12x.vcxproj -> E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86
+       PostBuildEvent:
+         echo C:\Marmalade\7.4\s3e\python\python.exe .\process_map.py "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86"
+         chdir /d "c:\marmalade\7.4\s3e\tools"
+         C:\Marmalade\7.4\s3e\python\python.exe .\process_map.py "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86"
+         echo "s3e_plink" -l "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86" 
+         chdir /d "c:\marmalade\7.4\s3e\bin"
+         "s3e_plink" -l "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86" 
+         
+         :VCEnd
+         C:\Marmalade\7.4\s3e\python\python.exe .\process_map.py "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86"
+         "s3e_plink" -l "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\Debug_HelloWorld_vc12x_x86\HelloWorld.s86" 
+     1>Done Building Project "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\HelloWorld_vc12x.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
