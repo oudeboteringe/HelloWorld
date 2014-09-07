@@ -1,4 +1,4 @@
-﻿Build started 9/7/2014 5:30:08 PM.
+﻿Build started 9/7/2014 5:53:43 PM.
      1>Project "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\HelloWorld_vc12x.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Marmalade\7.4\s3e\bin\CL.exe /c /Ic:/marmalade/7.4/s3e/h /Ic:/marmalade/7.4/s3e/h/ext /Ic:/marmalade/7.4/s3e/h/std /Ic:/marmalade/7.4/s3e/h/std/c++ /Ic:/marmalade/7.4/s3e/h/ext_legacy /Ic:/marmalade/7.4/s3e/h/legacy /I. /Z7 /nologo /W3 /WX- /MP /O2 /Oi /Oy- /X /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release_HelloWorld_vc12x_gcc_arm\\" /Fd"Release_HelloWorld_vc12x_gcc_arm\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /S3Eproject /J /Fe"s3e-custom-tool='c:/marmalade/7.4/s3e/gcc/win32/bin/arm-none-eabi-gcc.exe' tooltype=gcc_compiler -funsigned-char -fno-strict-aliasing -fno-stack-protector -fno-short-enums -fshort-wchar -Wall -fomit-frame-pointer -fmessage-length=0 -Wno-unused -Wno-parentheses -save-temps -ffunction-sections -mstructure-size-boundary=8 -march=armv6 -mfloat-abi=soft -mthumb-interwork -mword-relocations -Wno-switch -Wno-psabi -fvisibility=hidden -nostdinc -fPIC --cppflag=-Wno-reorder --cppflag=-fvisibility-inlines-hidden --cppflag=-fno-exceptions --cppflag=-nostdinc++ -O3" /FD  /FI"e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\temp_defines_release.h" ..\src\HelloWorld.cpp ..\src\Main.cpp ..\src\MainMenu.cpp
@@ -22,4 +22,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.00
+Time Elapsed 00:00:02.29

@@ -10529,11 +10529,11 @@ int main()
 
   if (iMess_ == 0)
   {
-   mess_ = "`xffffffHallo Wereld!";
+   mess_ = "`xffffffCristiane is mijn grote schat!";
   }
   else
   {
-   mess_ = "`xffffffHello World!";
+   mess_ = "`xffffffCristiane is mijn lieve baby!";
   }
   s3eDebugPrint(120, 150, mess_.c_str(), 0);
 
