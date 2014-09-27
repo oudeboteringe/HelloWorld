@@ -1,2 +1,2 @@
 ^E:\DOCUMENTS\MICHIEL\PROGRAMMEREN\MARMALADE\HELLOWORLD\HELLOWORLD.MKB
-"C:\Marmalade\7.4\s3e\python\python.exe" "C:\Marmalade\7.4\s3e\makefile_builder\mkb.py" "e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb" "--default-buildenv=vc12x" --msvc-project
+"C:\Marmalade\7.4\s3e\python\python.exe" "C:\Marmalade\7.4\s3e\makefile_builder\mkb.py" "e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb" "--buildenv=VC12X" "--test-assets" "Default" "--fake-vc-call" "--default-buildenv=vc12x" --msvc-project

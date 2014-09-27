@@ -1,4 +1,4 @@
-﻿Build started 9/7/2014 5:21:36 PM.
+﻿Build started 9/27/2014 10:05:57 AM.
      1>Project "E:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\HelloWorld_vc12x.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Marmalade\7.4\s3e\bin\CL.exe /c /Ic:/marmalade/7.4/s3e/h /Ic:/marmalade/7.4/s3e/h/ext /Ic:/marmalade/7.4/s3e/h/std /Ic:/marmalade/7.4/s3e/h/std/c++ /Ic:/marmalade/7.4/s3e/h/ext_legacy /Ic:/marmalade/7.4/s3e/h/legacy /I. /ZI /nologo /W3 /WX- /MP /Od /Oy- /X /Gm- /EHsc /RTC1 /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug_HelloWorld_vc12x_x86\\" /Fd"Debug_HelloWorld_vc12x_x86\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /S3Eproject /J /FI"e:\Documents\Michiel\Programmeren\Marmalade\HelloWorld\build_helloworld_vc12x\temp_defines_debug.h" ..\src\HelloWorld.cpp
@@ -28,4 +28,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.06
+Time Elapsed 00:00:01.37

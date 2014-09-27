@@ -4,7 +4,7 @@
 # tool during the build process.
 
 config = {}
-cmdline = ['C:/Marmalade/7.4/s3e/makefile_builder/mkb.py', 'e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb', '--buildenv=VC12X', '--test-assets', 'Default', '--fake-vc-call', '--deploy-only']
+cmdline = ['C:/Marmalade/7.4/s3e/makefile_builder/mkb.py', 'e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb', '--buildenv=VC12X', '--test-assets', 'Default', '--fake-vc-call', '--default-buildenv=vc12x', '--msvc-project', '--deploy-only']
 mkb = 'e:/Documents/Michiel/Programmeren/Marmalade/HelloWorld/HelloWorld.mkb'
 mkf = []
 

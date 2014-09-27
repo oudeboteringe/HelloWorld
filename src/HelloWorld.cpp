@@ -20,11 +20,15 @@ int main()
         // determines the colour of the text.
 		if (iMess_ == 0)
 		{
-			mess_ = "`xffffffCristiane is mijn schatje!";
+			mess_ = "`xffffffCristiane is de liefste!";
+		}
+		else if (iMess_ == 1)
+		{
+			mess_ = "`xffffffCristiane is mijn grote schat!";
 		}
 		else
 		{
-			mess_ = "`xffffffCristiane is mijn baby!";
+			mess_ = "`xffffffCristiane is mijn lieve baby!";
 		}
 		s3eDebugPrint(120, 150, mess_.c_str(), 0);
  
@@ -35,7 +39,7 @@ int main()
 		s3eDeviceYield(nmsSleep_);
 
 		iMess_++;
-		if (iMess_ > 1)
+		if (iMess_ > 2)
 		{
 			iMess_ = 0;
 		}

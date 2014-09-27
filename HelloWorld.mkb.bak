@@ -15,8 +15,3 @@ files
     MainMenu.cpp
     MainMenu.h
 }
-#### AUTO GENERATED deployment settings from DeployTool.exe. Do not edit below this line ####
-deployments
-{
-	["Default"]
-}
